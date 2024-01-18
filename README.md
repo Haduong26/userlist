@@ -2,6 +2,34 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Overview: This application fetches and displays a list of users from the JSON Placeholder API using React.
+
+It utilizes the following components:
+	•	Header - Displays the application title
+	•	UserList - Displays the list of users
+	•	LoadingIndicator - Displays while fetching data
+	•	ErrorDisplay - Displays errors
+
+Functionality:
+	•	Fetches the user data from the API on load
+	•	Shows a loading indicator while fetching the users
+	•	Displays the users in a list once successfully loaded
+	•	Displays error messages if there is an issue with the API request
+	•	Implements responsive design using CSS
+
+Dependencies:
+	•	React
+	•	ReactDOM
+	•	React Scripts
+	•	Axios
+
+Future Improvements:
+	•	Add routing to view user details
+	•	Implement server-side rendering
+	•	Add user search/filtering
+	•	Add user management functionality
+
+
 ## Available Scripts
 
 In the project directory, you can run:
