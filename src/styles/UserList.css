@@ -1,0 +1,24 @@
+
+table {
+    width: 80%;
+    margin: 0 auto;
+    border-spacing: 0px;
+    background-color: white;
+    border-radius: 1rem;
+    border-style: hidden;
+  }
+tr {
+    border-spacing: 0px;
+}
+
+th {
+    padding: 1rem;
+    padding-left: 3rem;
+    text-align: unset;
+    background-color: pink;
+}
+
+td {
+    padding: 0.5rem 0rem 0.5rem 3rem ;
+    border: 0;
+}
